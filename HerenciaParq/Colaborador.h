@@ -3,18 +3,10 @@
 class Colaborador
 {
 private:
-    /* data */
+    
 public:
-    Colaborador(/* args */);
-    ~Colaborador();
+    
 };
 
-Colaborador::Colaborador(/* args */)
-{
-}
-
-Colaborador::~Colaborador()
-{
-}
 
 #endif
