@@ -3,7 +3,9 @@
 class Universidad
 {
 private:
-    
+
+protected:
+
 public:
     
 };
