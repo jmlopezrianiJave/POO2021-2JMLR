@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/AltosNizaPruebasCompleto/src/Model/Propiedad.cpp
+Propiedad.h
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/AltosNizaPruebasCompleto/src/Model/Propiedad.h
+
+D:/jmlop/Desktop/Universidad/Tercer Semestre/OOP/AltosNizaPruebasCompleto/src/Model/Propiedad.h
+iostream
+-
+
